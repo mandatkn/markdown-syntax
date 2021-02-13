@@ -75,4 +75,4 @@ How to gave commit in github
 
 # Images
 <hr>
-![sacet logo](https://storage.googleapis.com/ezap-prod/colleges/3387/st-ann-college-of-engineering-logo.jpe)
+![sacet logo] (https://storage.googleapis.com/ezap-prod/colleges/3387/st-ann-college-of-engineering-logo.jpe)
